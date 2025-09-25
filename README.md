@@ -13,30 +13,30 @@
 1. 
 **Practicum 1**
 
-![alt text](image.png)
+![alt text](/hello_word/image.png)
 
 Step 1 to 4 has been completed.
 
 **Practicum 2**
 
-![alt text](image-1.png)
+![alt text](/hello_word/image-1.png)
 
-![alt text](image-2.png)
+![alt text](/hello_word/image-2.png)
 
-![alt text](image-3.png)
+![alt text](/hello_word/image-3.png)
 
 I have completed all the steps on how to connect an android device or an emulator
 
 **Pracitcum 3**
 
-![alt text](image-4.png)
+![alt text](/hello_word/image-4.png)
 
-![alt text](image-5.png)
+![alt text](/hello_word/image-5.png)
 
-![alt text](image-6.png)
+![alt text](/hello_word/image-6.png)
 
 Step 6-8
 
-![alt text](image-7.png)
+![alt text](/hello_word/image-7.png)
 
 
