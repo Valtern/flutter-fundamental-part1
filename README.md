@@ -109,7 +109,7 @@ I have learnted how navigation rails works and also how to build a layout builde
 
 **Step 8**
 
-![alt text](/img/image-26png)
+![alt text](/img/image-26.png)
 
 I have learnt how to create add a new page by using a stateless widget and use the .watch function to get a reading on the AppState
 
